@@ -1,16 +1,9 @@
 # tic_tac_toe
 
-A new Flutter project.
+A basic classical Tic Tac Toe created using Flutter. 
 
-## Getting Started
+![IMG_4456](https://user-images.githubusercontent.com/93698591/226118985-f12bfe79-8dd9-4c3f-b70e-a446a2b31943.jpg)
 
-This project is a starting point for a Flutter application.
+![IMG_4457](https://user-images.githubusercontent.com/93698591/226118979-8b2134b9-65e6-4713-b4dd-e8f24197b27b.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
